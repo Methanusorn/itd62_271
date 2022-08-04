@@ -2,5 +2,5 @@
 $name ="Methanusorn sutthitat";
 $sid ="64111412";
 echo "Hello ".$name;
-echo "ID: ".$sid
+echo "ID: ".$sid;
 ?>
